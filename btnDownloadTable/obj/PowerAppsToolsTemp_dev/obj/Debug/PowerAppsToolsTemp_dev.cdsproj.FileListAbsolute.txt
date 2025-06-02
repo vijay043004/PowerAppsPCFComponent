@@ -1,0 +1,2 @@
+C:\Users\C21882\Documents\powerAppsPCF\test\obj\PowerAppsToolsTemp_dev\obj\Debug\PowerAppsToolsTemp_dev.cdsproj.AssemblyReference.cache
+C:\Users\C21882\Documents\powerAppsPCF\test\obj\PowerAppsToolsTemp_dev\obj\Debug\PowerAppsToolsTemp_dev.cdsproj.CoreCompileInputs.cache

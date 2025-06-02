@@ -1,0 +1,55 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\C21882\\Documents\\powerAppsPCF\\test\\powerappspcf.pcfproj": {}
+  },
+  "projects": {
+    "C:\\Users\\C21882\\Documents\\powerAppsPCF\\test\\powerappspcf.pcfproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\C21882\\Documents\\powerAppsPCF\\test\\powerappspcf.pcfproj",
+        "projectName": "powerappspcf",
+        "projectPath": "C:\\Users\\C21882\\Documents\\powerAppsPCF\\test\\powerappspcf.pcfproj",
+        "packagesPath": "C:\\Users\\C21882\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\C21882\\Documents\\powerAppsPCF\\test\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\C21882\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net462"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net462": {
+            "targetAlias": "net462",
+            "projectReferences": {}
+          }
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net462": {
+          "targetAlias": "net462",
+          "dependencies": {
+            "Microsoft.NETFramework.ReferenceAssemblies": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.0.0, )"
+            },
+            "Microsoft.PowerApps.MSBuild.Pcf": {
+              "target": "Package",
+              "version": "[1.*, )"
+            }
+          }
+        }
+      }
+    }
+  }
+}

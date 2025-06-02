@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<manifest>
+  <control namespace="btnDownload" constructor="btnDataverseTableDownload" version="0.2.1" display-name-key="btnDataverseTableDownload" description-key="btnDataverseTableDownload made in React" control-type="virtual" api-version="1.3.16">
+    <external-service-usage enabled="false"/>
+    <data-set name="dataToExport" display-name-key="Property_tableToExport" description-key="table to export"/>
+    <property name="buttonText" display-name-key="Property_buttonText" description-key="fontsize" of-type="SingleLine.Text" usage="input" required="true" default-value="Export to Excel"/>
+    <property name="filename" display-name-key="Property_filename" description-key="color of the font" of-type="SingleLine.Text" usage="bound" required="true" default-value="excelExport"/>
+    <property name="buttonHeight" display-name-key="Property_buttonHeight" description-key="animation pace" of-type="SingleLine.Text" usage="input" required="false" default-value="250px"/>
+    <resources>
+      <code path="bundle.js" order="1"/>
+      <platform-library name="React" version="16.14.0"/>
+      <platform-library name="Fluent" version="9.46.2"/>
+      <css path="css/css.css" order="1"/>
+    </resources>
+    <feature-usage/>
+    <built-by name="pac" version="1.40.4"/>
+  </control>
+</manifest>

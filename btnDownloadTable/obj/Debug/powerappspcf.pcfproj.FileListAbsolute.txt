@@ -1,0 +1,4 @@
+C:\Users\C21882\Documents\powerAppsPCF\obj\Debug\powerappspcf.pcfproj.AssemblyReference.cache
+C:\Users\C21882\Documents\powerAppsPCF\obj\Debug\powerappspcf.pcfproj.CoreCompileInputs.cache
+C:\Users\C21882\Documents\powerAppsPCF\test\obj\Debug\powerappspcf.pcfproj.AssemblyReference.cache
+C:\Users\C21882\Documents\powerAppsPCF\test\obj\Debug\powerappspcf.pcfproj.CoreCompileInputs.cache
