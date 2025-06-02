@@ -6,6 +6,8 @@ With this component you will be able to download a an excel export of a datavers
 This component has nop limits in rows, you can download unlimited rows and unlimited columns from the dataverse.
 Be aware that the more rows you download, the longer you will have to wait.
 
+The documentation is in french but feel free to translate it.
+
 Happy Coding 😁
 
 ------------------------------------------------------------------------------------------------------------------
